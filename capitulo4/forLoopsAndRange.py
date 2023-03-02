@@ -36,3 +36,6 @@ for planeta in planetas:
 
 
 print("********************************************************")
+
+print("Enumerate")
+for i, planeta

@@ -3,6 +3,7 @@ import random
 guess = random.randint(0, 5)
 input("Me faça uma pergunta: ")
 
+
 if guess== 0:
     print("Sim, com certeza!")
 elif guess == 1:
